@@ -1,1 +1,1 @@
-# linearoptim
+# Dataset for linear programing example
